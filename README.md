@@ -2,7 +2,7 @@
 
 This is a project to review basic skills of applicants applying to be a Reelit developer. This is a relatively simple project, however don't feel pressured to finish quickly or get it perfect we are mostly just looking to have some insight into your thought process and approach a task like this.
 
-**
+___
 
 ### Outline of Task
 
