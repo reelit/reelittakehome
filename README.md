@@ -11,7 +11,7 @@ We would like you to construct a web application that gets data (basic reelit te
 **API Endpoint:**
 *https://my-json-server.typicode.com/reelit/reelittakehome/templates*
 
-The created web page should open with a "GET TEMPLATES" button in the center. When this button is pressed, hide the button, fetch the data from the endpoint, filter/order it as described below and then display the filtered/ordered data on the page with some basic formatting (however you would like).
+Once compiled and run, the web page should open with a "GET TEMPLATES" button in the center. When this button is pressed, hide the button, fetch the data from the endpoint, filter/order it as described below and then display the filtered/ordered data on the page with some basic HTML and CSS formatting (however you would like).
 
 **Filtering:**  
 Filter the data to only show templates with `"template_genre": "genre_1"`, remove any other genres.
