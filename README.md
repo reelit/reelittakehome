@@ -46,9 +46,10 @@ Feel free to spend as much or as little time on the exercise as you like as long
 
 A simple markdown file containing notes on your thought process and how you contructed the code. Including descisions, changes, tests etc.  
 
-*It sould also be stressed that there are no wrong answers, these notes just give us additional insight when reviewing you as a fit for the Reelit team.*
+<sub>It sould also be stressed that there are no wrong answers, these notes just give us additional insight when reviewing you as a fit for the Reelit team.</sub>
 
-**Some examples of what you could note down:**
+**Some examples of what you could note down:**  
+
 How you first designed (in your head or physically) how the system would work after reading the brief.  
 What sources you used to find code that you could repurpose (if not written from scratch).  
 Any problems you encountered.  
