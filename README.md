@@ -49,7 +49,7 @@ A simple markdown file containing notes on your thought process and how you cont
 
 
 **Some examples of what you could note down:**  
-How you first designed (in your head or physically) how the system would work after reading the brief.  
+- How you first designed (in your head or physically) how the system would work after reading the brief.  
 What sources you used to find code that you could repurpose (if not written from scratch).  
 Any problems you encountered.  
 Decisions where you used one method over another and why.  
