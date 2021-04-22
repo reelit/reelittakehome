@@ -38,7 +38,7 @@ Feel free to spend as much or as little time on the exercise as you like as long
 1. Provide details of your workings and thought process as we have outlined below.  
 2. Please make your code compile and run in as little steps as possible.  
 
-Also feel free to make the project as simple or advanced as you like or are comfortable with.
+<sub>Also feel free to make the project as simple or advanced as you like or are comfortable with.</sub>
 
 
 
