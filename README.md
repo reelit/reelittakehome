@@ -4,7 +4,7 @@ This is a project to review basic skills of applicants applying to be a Reelit d
 
 ___
 
-### Outline of Task
+## Outline of Task
 
 We would like you to construct a web application that takes the output (basic reelit templates in an array) from a GET request to the placeholder API endpoint listed below, and then filters/orders that data slightly and displays it on the page.
 
@@ -20,9 +20,9 @@ Order the data by `"total_length"` desc.
 
 
 
-### Platform Choice
+## Platform Choice
 
-Python where possible, with any frameworks/libraries.  
+Python - where possible, with any frameworks/libraries.  
 Basic HTML and CSS, with any frameworks/libraries.  
 JavaScript can also be used if needed, with any frameworks/libraries. 
 
@@ -30,7 +30,7 @@ Use any IDE/tools that you are comfortable with.
 
 
 
-### Task Requirements
+## Task Requirements
 
 Feel free to spend as much or as little time on the exercise as you like as long as the following 2 requirements have been met.  
   
@@ -39,6 +39,21 @@ Feel free to spend as much or as little time on the exercise as you like as long
 
 
 
-### Details of Your Workings
+## Details of Your Workings
 
-Please provide how
+A simple README.md containing notes on your thought process and how you contructed the code. Including descisions, changes, tests etc.  
+It sould be stressed that there are no wrong answers, it just gives us some additional insight when reviewing you as a fit for the Reelit team we are building.  
+
+**Some examples of what you could note down:**
+How you first designed (in your head or physically) how the system would work after reading the brief.  
+What sources you used to find code that you could repurpose (if not written from scratch).  
+Any problems you encountered.  
+Decisions where you used one method over another and why.  
+How long it took you and if you found it difficult or easy.  
+Changes you would've liked to make if you had more time.  
+Features you would like to add (or did).  
+And any other notes you beleive might help us evaluate.  
+
+___
+
+### We look forward to speaking with you!
