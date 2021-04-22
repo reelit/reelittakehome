@@ -38,11 +38,13 @@ Feel free to spend as much or as little time on the exercise as you like as long
 1. Provide details of your workings and thought process as we have outlined below.  
 2. Please make your code compile and run in as little steps as possible.  
 
+Also feel free to make the project as simple or advanced as you like or are comfortable with.
+
 
 
 ## Details of Your Workings
 
-A simple README.md containing notes on your thought process and how you contructed the code. Including descisions, changes, tests etc.  
+A simple markdown file containing notes on your thought process and how you contructed the code. Including descisions, changes, tests etc.  
 It sould be stressed that there are no wrong answers, it just gives us some additional insight when reviewing you as a fit for the Reelit team we are building.  
 
 **Some examples of what you could note down:**
@@ -55,6 +57,8 @@ Changes you would've liked to make if you had more time.
 Features you would like to add (or did).  
 And any other notes you beleive might help us evaluate.  
 
-___
+## Help
 
-#### We look forward to speaking with you!
+If you have any important queries or there are any issues (such as 'fake' placeholder API not being functional) don't hesistate to contact Campbell - details previously provided to you.
+
+#### We look forward to seeing your work!
