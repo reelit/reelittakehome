@@ -13,12 +13,12 @@ We would like you to construct a web application that takes the output (basic re
 The created web page should open with a "GET TEMPLATES" button in the center. When this button is pressed, hide the button, fetch the data from the endpoint, filter/order it as described below and then display the filtered/ordered data on the page with some basic formatting (however you would like).
 
 **Filtering:**  
-Filter the data to only show templates with a "template_genre" field of "genre_1", remove any others.
+Filter the data to only show templates with `"template_genre": "genre_1"`, remove any other genres.
 
 **Ordering:**  
-Order the data by "total_length" desc.
+Order the data by `"total_length"` desc.
 
----
+
 
 ### Platform Choice
 
@@ -28,7 +28,7 @@ JavaScript can also be used if needed, with any frameworks/libraries.
 
 Use any IDE/tools that you are comfortable with.
 
----
+
 
 ### Task Requirements
 
@@ -37,7 +37,7 @@ Feel free to spend as much or as little time on the exercise as you like as long
 1. Provide details of your workings and thought process as we have outlined below.  
 2. Please make your code compile and run in as little steps as possible.  
 
----
+
 
 ### Details of Your Workings
 
