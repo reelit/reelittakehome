@@ -1,0 +1,78 @@
+{ "templates": [
+    {
+        "audio_track_display_name": "Track Name",
+        "id": "1SBAGKCx-55Un-lvKN-eXxj-mXeOrahD5cJI",
+        "name": "Template 431",
+        "number_of_shots": 10,
+        "project_template": null,
+        "property_size": "all",
+        "template_genre": "genre_1",
+        "template_owner_id": "REELIT_DRAFTS",
+        "template_preview_url": null,
+        "template_subgenre": "upbeat",
+        "template_thumbnail_url": null,
+        "template_type": "PROJECT_TEMPLATE",
+        "total_length": 28
+    },
+    {
+        "audio_track_display_name": "Track Name",
+        "id": "0nfxFOKP-IwGF-7WYl-RHIE-SpwwSLfr9E0T",
+        "name": "Templat 165",
+        "number_of_shots": 13,
+        "project_template": null,
+        "property_size": "all",
+        "template_genre": "genre_1",
+        "template_owner_id": "REELIT_DRAFTS",
+        "template_preview_url": null,
+        "template_subgenre": "hiphop",
+        "template_thumbnail_url": null,
+        "template_type": "PROJECT_TEMPLATE",
+        "total_length": 27
+    },
+    {
+        "audio_track_display_name": "Track Name",
+        "id": "3oUYLQLG-4A3R-8TjV-R1RU-GyKQxgfMweo0",
+        "name": "Template 063",
+        "number_of_shots": 10,
+        "project_template": null,
+        "property_size": "all",
+        "template_genre": "genre_1",
+        "template_owner_id": "REELIT_DRAFTS",
+        "template_preview_url": null,
+        "template_subgenre": "lofi",
+        "template_thumbnail_url": null,
+        "template_type": "PROJECT_TEMPLATE",
+        "total_length": 30
+    },
+    {
+        "audio_track_display_name": "Track Name",
+        "id": "2iuKYxIS-iWyZ-vq5d-kZ1e-aDO1C6huVifH",
+        "name": "Template 297",
+        "number_of_shots": 14,
+        "project_template": null,
+        "property_size": "all",
+        "template_genre": "genre_2",
+        "template_owner_id": "REELIT_DRAFTS",
+        "template_preview_url": null,
+        "template_subgenre": "chill",
+        "template_thumbnail_url": null,
+        "template_type": "PROJECT_TEMPLATE",
+        "total_length": 33
+    },
+    {
+        "audio_track_display_name": "Track Name",
+        "id": "2MJnIgRB-C3ld-W70k-PsbN-3nRdck3yQBCN",
+        "name": "Template 376",
+        "number_of_shots": 14,
+        "project_template": null,
+        "property_size": "all",
+        "template_genre": "genre_1",
+        "template_owner_id": "REELIT_DRAFTS",
+        "template_preview_url": null,
+        "template_subgenre": "chill",
+        "template_thumbnail_url": null,
+        "template_type": "PROJECT_TEMPLATE",
+        "total_length": 26
+    }
+    ]
+}
