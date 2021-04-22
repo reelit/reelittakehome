@@ -1,4 +1,4 @@
-[
+{ "templates": [
 {
     "audio_track_display_name": "Track Name",
     "id": "1SBAGKCx-55Un-lvKN-eXxj-mXeOrahD5cJI",
@@ -75,3 +75,4 @@
     "total_length": 26
 }
 ]
+}
