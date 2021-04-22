@@ -50,13 +50,13 @@ A simple markdown file containing notes on your thought process and how you cont
 
 **Some examples of what you could note down:**  
 - How you first designed (in your head or physically) how the system would work after reading the brief.  
-What sources you used to find code that you could repurpose (if not written from scratch).  
-Any problems you encountered.  
-Decisions where you used one method over another and why.  
-How long it took you and if you found it difficult or easy.  
-Changes you would've liked to make if you had more time.  
-Features you would like to add (or did).  
-And any other notes you beleive might help us evaluate.  
+- What sources you used to find code that you could repurpose (if not written from scratch).  
+- Any problems you encountered.  
+- Decisions where you used one method over another and why.  
+- How long it took you and if you found it difficult or easy.  
+- Changes you would've liked to make if you had more time.  
+- Features you would like to add (or did).  
+- And any other notes you beleive might help us evaluate.  
 
 ## Help
 
