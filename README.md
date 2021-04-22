@@ -45,7 +45,8 @@ Also feel free to make the project as simple or advanced as you like or are comf
 ## Details of Your Workings
 
 A simple markdown file containing notes on your thought process and how you contructed the code. Including descisions, changes, tests etc.  
-It sould be stressed that there are no wrong answers, it just gives us some additional insight when reviewing you as a fit for the Reelit team we are building.  
+
+*It sould also be stressed that there are no wrong answers, these notes just give us additional insight when reviewing you as a fit for the Reelit team.*
 
 **Some examples of what you could note down:**
 How you first designed (in your head or physically) how the system would work after reading the brief.  
