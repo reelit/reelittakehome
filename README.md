@@ -1,4 +1,4 @@
-# Take Home Project
+# Reelit Applicant Exercise
 
 This is a project to review basic skills of applicants applying to be a Reelit developer. This is a relatively simple project, however don't feel pressured to finish quickly or get it perfect. We are mostly just looking to have some insight into your thought process and approach to a task like this.
 
