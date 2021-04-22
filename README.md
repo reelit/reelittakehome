@@ -1,13 +1,14 @@
 # Take Home Project
 
-This is a project to review basic skills of applicants applying to be a Reelit developer. This is a relatively simple project, however don't feel pressured to finish quickly or get it perfect we are mostly just looking to have some insight into your thought process and approach a task like this.
+This is a project to review basic skills of applicants applying to be a Reelit developer. This is a relatively simple project, however don't feel pressured to finish quickly or get it perfect. We are mostly just looking to have some insight into your thought process and approach to a task like this.
 
 
 
 ## Outline of Task
 
-We would like you to construct a web application that takes the output (basic reelit templates in an array) from a GET request to the placeholder API endpoint listed below, and then filters/orders that data slightly and displays it on the page.
+We would like you to construct a web application that gets data (basic reelit templates in an array) from an API endpoint (placeholder json one in this case) and then filters/orders that data slightly to display it on the page.
 
+**API Endpoint:**
 *https://my-json-server.typicode.com/reelit/reelittakehome/templates*
 
 The created web page should open with a "GET TEMPLATES" button in the center. When this button is pressed, hide the button, fetch the data from the endpoint, filter/order it as described below and then display the filtered/ordered data on the page with some basic formatting (however you would like).
